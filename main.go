@@ -23,7 +23,7 @@ import (
 const (
 	POST_INDEX  = "post"
 	DISTANCE    = "200km"
-	ES_URL      = "http://10.128.0.2:9200"
+	ES_URL      = "************"
 	BUCKET_NAME = "stinky-bucket"
 )
 
